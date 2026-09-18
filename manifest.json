@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Zero-Width Vanisher",
+  "version": "1.0",
+  "description": "Turns the text of any webpage into invisible Zero-Width Spaces.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
